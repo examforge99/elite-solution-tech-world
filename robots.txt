@@ -1,0 +1,5 @@
+# Replace the sitemap URL with the verified production domain before launch.
+User-agent: *
+Allow: /
+
+# Sitemap: https://REPLACE-WITH-VERIFIED-DOMAIN/sitemap.xml
